@@ -1,0 +1,754 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 424,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rGiK6426V_AC",
+   "etag": "kbVboLAAfDY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rGiK6426V_AC",
+   "volumeInfo": {
+    "title": "La catedral del mar",
+    "authors": [
+     "Ildefonso Falcones"
+    ],
+    "publisher": "GRIJALBO",
+    "publishedDate": "2010-07-15",
+    "description": "Nueva edición del gran fenómeno editorial: La catedral del mar, de Ildefonso Falcones, con prólogo del autor. Una catedral construida por el pueblo y para el pueblo en la Barcelona medieval es el escenario de una apasionante historia de intriga, violencia y pasión. Siglo XIV. La ciudad de Barcelona se encuentra en su momento de mayor prosperidad; ha crecido hacia la Ribera, el humilde barrio de los pescadores, cuyos habitantes deciden construir, con el dinero de unos y el esfuerzo de otros, el mayor templo mariano jamás conocido: Santa María de la Mar. Una construcción que es paralela a la azarosa historia de Arnau, un siervo de la tierra que huye de los abusos de su señor feudal y se refugia en Barcelona, donde se convierte en ciudadano y, con ello, en hombre libre. El joven Arnau trabaja como palafrenero, estibador, soldado y cambista. Una vida extenuante, siempre al amparo de la catedral de la mar, que le iba a llevar de la miseria del fugitivo a la nobleza y la riqueza. Pero con esta posición privilegiada también le llega la envidia de sus pares, que urden una sórdida conjura que pone su vida en manos de la Inquisición... La catedral del mar es una trama en la que se entrecruzan lealtad y venganza, traición y amor, guerra y peste, en un mundo marcado por la intolerancia religiosa, la ambición material y la segregación social. Todo ello convierte esta obra no sólo en una novela absorbente, sino también en la más fascinante y ambiciosa recreación de las luces y sombras de la época feudal. La crítica ha dicho... «Un relato que se lee con la misma avidez con que se ha escrito y que uno quisiera prolongar aun sabiendo que ha terminado. Un retablo de maravillas.» José Enrique Ruiz-Domènec, La Vanguardia «La catedral del mar va a despertar pasiones entre lectores de todo tipo, y con justicia. Ojalá todos los bestsellers fueran como éste.» Care Santos, El Mundo «Una trama generosa en secretos y traiciones... Una notable historia de autosuperación.» Ricard Ruiz Garzón, El Periódico «Barcelona ya tiene su Los pilares de la Tierra.» Qué Leer",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788425344459"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "842534445X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 680,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 51,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.54.42.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rGiK6426V_AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rGiK6426V_AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=rGiK6426V_AC&printsec=frontcover&dq=intitle:La+catedral+del+mar&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=rGiK6426V_AC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-rGiK6426V_AC"
+   },
+   "saleInfo": {
+    "country": "ES",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 8.54,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=rGiK6426V_AC&rdid=book-rGiK6426V_AC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 8540000.0,
+       "currencyCode": "EUR"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "ES",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.es/books/download/La_catedral_del_mar-sample-epub.acsm?id=rGiK6426V_AC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.es/books/download/La_catedral_del_mar-sample-pdf.acsm?id=rGiK6426V_AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rGiK6426V_AC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nueva edición del gran fenómeno editorial: La catedral del mar, de Ildefonso Falcones, con prólogo del autor."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YqaJtAEACAAJ",
+   "etag": "KeV7ujOvy3Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YqaJtAEACAAJ",
+   "volumeInfo": {
+    "title": "La catedral del mar",
+    "authors": [
+     "Ildefonso Falcones de Sierra"
+    ],
+    "publishedDate": "2008",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "958639042X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789586390422"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 670,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.es/books?id=YqaJtAEACAAJ&dq=intitle:La+catedral+del+mar&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=YqaJtAEACAAJ&dq=intitle:La+catedral+del+mar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/La_catedral_del_mar.html?hl=&id=YqaJtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "ES",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YqaJtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iWdDtwEACAAJ",
+   "etag": "gI8usd+LP5w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iWdDtwEACAAJ",
+   "volumeInfo": {
+    "title": "La catedral del mar",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "846634571X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788466345712"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 672,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.es/books?id=iWdDtwEACAAJ&dq=intitle:La+catedral+del+mar&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=iWdDtwEACAAJ&dq=intitle:La+catedral+del+mar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/La_catedral_del_mar.html?hl=&id=iWdDtwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "ES",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iWdDtwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cb9PDAAAQBAJ",
+   "etag": "dp0EzMlO6V0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cb9PDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Los herederos de la tierra",
+    "authors": [
+     "Ildefonso Falcones"
+    ],
+    "publisher": "GRIJALBO",
+    "publishedDate": "2016-08-31",
+    "description": "La muy esperada continuación del gran fenómeno editorial La catedral del mar de Ildefonso Falcones. Hace diez años, millones de lectores se rindieron ante Arnau Estanyol, el bastaix que ayudó a construir la iglesia de Santa María del mar. Ahora, la historia continúa con esta impresionante recreación de la Barcelona medieval, una espléndida y emocionante novela de lealtad, venganza, amor y sueños por cumplir. Barcelona, 1387. Las campanas de la iglesia de Santa María de la Mar siguen sonando para todos los habitantes del barrio de la Ribera, pero uno de ellos escucha su repique con especial atención... Hugo Llor, hijo de un marinero fallecido, a sus doce años trabaja en las atarazanas gracias a la generosidad de uno de los prohombres más apreciados de la ciudad: Arnau Estanyol. Pero sus sueños juveniles de convertirse en constructor de barcos se darán de bruces contra una realidad dura y despiadada cuando la familia Puig, enemiga acérrima de su mentor, aproveche su posición ante el nuevo rey para ejecutar una venganza que llevaba años acariciando. A partir de ese momento, la vida de Hugo oscila entre su lealtad a Bernat, amigo y único hijo de Arnau, y la necesidad de sobrevivir en una ciudad injusta con los pobres. Obligado a abandonar el barrio de la Ribera, busca trabajo junto a Mahir, un judío que le enseña los secretos del mundo del vino. Con él, entre viñedos, cubas y alambiques, el muchacho descubre la pasión por la tierra al tiempo que conoce a Dolça, la hermosa sobrina del judío, que se convertirá en su primer amor. Pero este sentimiento, prohibido por las costumbres y por la religión, será el que le proporcionará los momentos más dulces y amargos de su juventud. Diez años después de La catedral del mar, Ildefonso Falcones regresa de nuevo a ese mundo que tan bien conoce, la Barcelona medieval. Y lo hace recreando una vez más a la perfección esa efervescente sociedad feudal, prisionera de una nobleza voluble y corrupta, y la lucha de un hombre por salir adelante sin sacrificar su dignidad. Reseña: «Decía Kipling que la artesanía está siempre en la base de todo gran arte. Tal apreciación nos ha rondado mientras leíamos la caudalosa (y muy trabajada) segunda parte de La catedral del mar. [...] Una buena novela histórica que logra sumergir al lector en atmósferas del pasado. [...] Una secuela a la altura de su obra matriz.» Carles Barba, Cultura/s, La Vanguardia «Lo mejor de la novela radica en la creación del mundo casi mágico de una Barcelona aún reconocible, pero cuyo pasado se desconoce. Falcones lo desvela, lo hace atractivo y lo acerca en un inteligente juego de paralelismos. Esos paralelismos, junto a una espectacular recreación, hacen de Los herederos de la tierra una novela que cumple con creces los requisitos de una buena narración histórica.» Juan Ángel Juristo, ABC Cultural",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788425354625"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8425354625"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 828,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.12.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cb9PDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cb9PDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=cb9PDAAAQBAJ&printsec=frontcover&dq=intitle:La+catedral+del+mar&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cb9PDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-cb9PDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "ES",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 11.39,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cb9PDAAAQBAJ&rdid=book-cb9PDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.199E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.139E7,
+       "currencyCode": "EUR"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "ES",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.es/books/download/Los_herederos_de_la_tierra-sample-epub.acsm?id=cb9PDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.es/books/download/Los_herederos_de_la_tierra-sample-pdf.acsm?id=cb9PDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cb9PDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esos paralelismos, junto a una espectacular recreación, hacen de Los herederos de la tierra una novela que cumple con creces los requisitos de una buena narración histórica.» Juan Ángel Juristo, ABC Cultural"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qUv1QGO2YzEC",
+   "etag": "cOeHHLYGdHg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qUv1QGO2YzEC",
+   "volumeInfo": {
+    "title": "Inventario de los libros de coro de la Catedral de Valladolid-Morelia",
+    "authors": [
+     "Gustavo Marín Guardado",
+     "Mary Ann Kelsey",
+     "Harry Kelsey"
+    ],
+    "publisher": "El Colegio de Michoacán A.C.",
+    "publishedDate": "2000-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9706790357"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789706790354"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 106,
+    "printType": "BOOK",
+    "categories": [
+     "Fishers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qUv1QGO2YzEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qUv1QGO2YzEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=qUv1QGO2YzEC&pg=PA13&dq=intitle:La+catedral+del+mar&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=qUv1QGO2YzEC&dq=intitle:La+catedral+del+mar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Inventario_de_los_libros_de_coro_de_la_C.html?hl=&id=qUv1QGO2YzEC"
+   },
+   "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "ES",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qUv1QGO2YzEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Gustavo Marín Guardado, Mary Ann Kelsey, Harry Kelsey, \u003cb\u003eCatedral\u003c/b\u003e de Morelia \u003cbr\u003e\nOscar Mazín Gómez ... escala, el cambio en las estrategias adaptativas y el \u003cbr\u003e\nmanejo de los recursos marinos en la isla de Holbox, situada en el \u003cb\u003eMar\u003c/b\u003e Caribe al \u003cbr\u003e\nnorte&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Gb60CwAAQBAJ",
+   "etag": "6rPdkWvSm4A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Gb60CwAAQBAJ",
+   "volumeInfo": {
+    "title": "La Catedral del Cielo",
+    "authors": [
+     "Arshad Ahsanuddin"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2016-03-07",
+    "description": "El Pacto Arcano: Libro 1.5 de 4 Hijo del Crepúsculo Venecia, Italia, 2039. Cuando Michael Danvers es testigo de un ataque vampírico, su habilidad latent de cambiar de forma se despierta. Revelado como un Centinela, el enemigo natural de los Caminantes Nocturnos, Michael de 13 años debe darle la espalda a su familia y a segura, predecible vida. Pero un campo de batalla sobrenatural no es lugar para un niño, ni siquiera para un genio como Michael. Traicionado por los suyos, deja la Tierra atrás, esperando encontrar un nuevo camino en el Gremio Espacial — y las estrellas. Templado por la Luz de la Luna Trasladado a la Ciudadela, Michael rápidamente se hace de renombre en la Academia del Gremio Espacial. Pero cada avance significa menos para él que la Amistad que adquiere, de compañeros sus compañeros cadetes William y Ariel, incluso cuando Michael es promovido por sobre ellos. Forjado en la Luz de las Estrellas Todos tenían planes para el future de Michael: sus padres, los Centinelas, el Gremio—incluso su major amigo, Will. Pero Michael toma el control de su destino, y cuando es llamado a hacer una fatídica decision con incontables vidas pendiendo de un hilo, el único sentido del honor que importa es el suyo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781507132357"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1507132352"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 123,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Gb60CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Gb60CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=Gb60CwAAQBAJ&pg=PT45&dq=intitle:La+catedral+del+mar&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Gb60CwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Gb60CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "ES",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 3.01,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 2.86,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Gb60CwAAQBAJ&rdid=book-Gb60CwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3010000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2860000.0,
+       "currencyCode": "EUR"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "ES",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Gb60CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "William la siguió, sintiendo el ritmo de la música desvanecerse cuando entraron \u003cbr\u003e\nen el pasillo exterior. No dijeron nada hasta que llegaron a la gran ventana \u003cbr\u003e\npanorámica que da a la roca gris del \u003cb\u003eMare\u003c/b\u003e Arcanum que rodea la Ciudadela."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6wChxYo8BRwC",
+   "etag": "f1Guo0ZfZpU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6wChxYo8BRwC",
+   "volumeInfo": {
+    "title": "La catedral de la Habana",
+    "publisher": "Editorial Dunken",
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9870213251"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789870213253"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 142,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6wChxYo8BRwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6wChxYo8BRwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=6wChxYo8BRwC&pg=PA73&dq=intitle:La+catedral+del+mar&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=6wChxYo8BRwC&dq=intitle:La+catedral+del+mar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/La_catedral_de_la_Habana.html?hl=&id=6wChxYo8BRwC"
+   },
+   "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "ES",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6wChxYo8BRwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... en cuestión, me daba la espalda y obstaculizaba, al interponerse, mi visión del \u003cbr\u003e\n\u003cb\u003emar\u003c/b\u003e. La primera impresión que se me manifestó fue visual e ilógica: La figura \u003cbr\u003e\nmovilizaba los brazos siguiendo una cadencia que yo no alcanzaba a&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pW6X1jW8qpgC",
+   "etag": "Kn22VOOnEg8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pW6X1jW8qpgC",
+   "volumeInfo": {
+    "title": "La catedral de León",
+    "subtitle": "memoria",
+    "authors": [
+     "Matías Laviña Blasco"
+    ],
+    "publisher": "Editorial MAXTOR",
+    "publishedDate": "2001",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788495636485"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8495636484"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pW6X1jW8qpgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pW6X1jW8qpgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=pW6X1jW8qpgC&pg=PA18&dq=intitle:La+catedral+del+mar&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=pW6X1jW8qpgC&dq=intitle:La+catedral+del+mar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/La_catedral_de_Le%C3%B3n.html?hl=&id=pW6X1jW8qpgC"
+   },
+   "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "ES",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pW6X1jW8qpgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... sin otro pensamiento ni más objeto que la \u003cb\u003ecatedral\u003c/b\u003e, cifrando en ella todas sus \u003cbr\u003e\nilusiones, soñando en ella hasta despierto, ... antes bien las conservó aún con \u003cbr\u003e\nmayor lucidez, como aumentan su caudal y rapidez los rios á medida que al \u003cb\u003emar\u003c/b\u003e\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "acnFJCctKI8C",
+   "etag": "ZXE21906Jos",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/acnFJCctKI8C",
+   "volumeInfo": {
+    "title": "Carta histórico-artística sobre el edificio de la catedral de Palma de Mallorca",
+    "authors": [
+     "Gaspar Melchor de Jovellanos"
+    ],
+    "publishedDate": "1832",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BNC:1001920468"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 22,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=acnFJCctKI8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=acnFJCctKI8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=acnFJCctKI8C&pg=PA19&dq=intitle:La+catedral+del+mar&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=acnFJCctKI8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-acnFJCctKI8C"
+   },
+   "saleInfo": {
+    "country": "ES",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=acnFJCctKI8C&rdid=book-acnFJCctKI8C&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "ES",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.es/books/download/Carta_hist%C3%B3rico_art%C3%ADstica_sobre_el_edi.epub?id=acnFJCctKI8C&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.es/books/download/Carta_hist%C3%B3rico_art%C3%ADstica_sobre_el_edi.pdf?id=acnFJCctKI8C&hl=&output=pdf&sig=ACfU3U0wwYpcBuEOg--TTkqDy81BoN2N4Q&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=acnFJCctKI8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta poblacion que edificó en 1300 D. Jaime h de Mallorca en unas tierras que \u003cbr\u003e\ncompró al efecto á Nicolas Bonet, está á las orillas del \u003cb\u003emar\u003c/b\u003e, distante media legua \u003cbr\u003e\nde su ribera, con la que confina por éste y sur, por el norte con Felanitx y por el&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o305AAAAcAAJ",
+   "etag": "iEO4FZfGrT8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o305AAAAcAAJ",
+   "volumeInfo": {
+    "title": "Descripcion artistica de la catedral de Sevilla",
+    "subtitle": "Apéndice a la descripcion artistica de la catedral de Sevilla",
+    "authors": [
+     "Juan Agustín Ceán Bermúdez"
+    ],
+    "publishedDate": "1805",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BSB:BSB10059270"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 47,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=o305AAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=o305AAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=o305AAAAcAAJ&pg=PP46&dq=intitle:La+catedral+del+mar&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=o305AAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-o305AAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "ES",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=o305AAAAcAAJ&rdid=book-o305AAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "ES",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.es/books/download/Descripcion_artistica_de_la_catedral_de.pdf?id=o305AAAAcAAJ&hl=&output=pdf&sig=ACfU3U1RF7j6NRzyw7W0uTvG3IMnNt5syQ&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=o305AAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Apéndice a la descripcion artistica de la \u003cb\u003ecatedral\u003c/b\u003e de Sevilla Juan Agustín Ceán \u003cbr\u003e\nBermúdez. ADVERTENCIA. \u003cb\u003eMar\u003c/b\u003e,. se imprimia este Apéndice, se daba nueva \u003cbr\u003e\ncolocacion á las pinturas de la sacristia de los Cálices. Se quitaron algunas de \u003cbr\u003e\nlas&nbsp;..."
+   }
+  }
+ ]
+}

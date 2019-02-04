@@ -1,4 +1,0 @@
-github "ReSwift/ReSwift"
-github "ReactiveX/RxSwift" ~> 4.0
-github "onevcat/Kingfisher" ~> 4.0
-github "Moya/Moya"

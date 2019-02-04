@@ -12,7 +12,7 @@ let logginMiddleware: Middleware<Any> = { dispatch, getState in
   return { next in
     return { action in
       //TODO: Action logging!
-//      print(action)
+      print(action)
       return next(action)
     }
   }

@@ -12,7 +12,7 @@ import Foundation
 
 // Call Example by ISBN
 // https://www.googleapis.com/books/v1
-// /volumes?q=isbn:9788426106001&langRestrict=es&key=watheverAPIKey
+//        /volumes?q=isbn:9788426106001&langRestrict=es&key=watheverAPIKey
 //let SEARCHURL = "https://www.googleapis.com/books/v1/REQUEST_TYPE?q=SEARCH_PARAMS&key=API_KEY"
 
 let searchURL = "https://www.googleapis.com/books/v1/"
@@ -126,13 +126,16 @@ struct BookAPI {
       queryValue += URLParams.title.rawValue + title
     }
 
+    if !APIKey.isEmpty {
+      queryValue += URLParams.APIKey.rawValue + APIKey
+    }
+
     let queryComponent = URLQueryItem(name: "q", value: queryValue)
-    let authComponent  = URLQueryItem(name: "key", value: APIKey)
     //TODO: Became a user defined param?
     let maxResults     = URLQueryItem(name: "maxResults", value: "40")
 
     var components = URLComponents(url: url.absoluteURL, resolvingAgainstBaseURL: false)
-    components?.queryItems = [queryComponent, authComponent, maxResults]
+    components?.queryItems = [queryComponent, maxResults]
 
     return components?.url
   }
